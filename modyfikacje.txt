@@ -3,3 +3,5 @@ wprorowadono zmiany
 i koljenafd
 i jeszcze raz
 test kto zrobil commit
+
+nowy commit
